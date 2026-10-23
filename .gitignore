@@ -1,0 +1,12 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Cache
+__pycache__/
+*.pyc
+
+# Temp
+*.tmp
+*.bak
